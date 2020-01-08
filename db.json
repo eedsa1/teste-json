@@ -1,0 +1,25 @@
+{
+  "noticias": [
+    {
+	"id": 1,
+	"titulo": "hello1",
+      	"data": "01/01/2018",
+	"corpo":"sadasdasdasdasda",
+	"url":"asdasdasd"
+    },
+    {
+	"id": 2,
+	"titulo": "hello2",
+      	"data": "01/01/2019",
+	"corpo":"sadasdasdasdasda",
+	"url":"asdasdasd"
+    },
+    {
+	"id": 3,
+	"titulo": "hello3",
+      	"data": "01/01/2020",
+	"corpo":"sadasdasdasdasda",
+	"url":"asdasdasd"
+    },
+  ]
+}
