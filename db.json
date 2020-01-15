@@ -6,6 +6,13 @@
       	"data": "01-01-2020",
 	"corpo":"corpo noticia 1",
 	"url":"asdasdasd"
+    },
+    {
+	"id": 2,
+	"titulo": "Noticia 2",
+      	"data": "01-01-2020",
+	"corpo":"corpo noticia 2",
+	"url":"asdasdasd"
     }
   ]
 }
