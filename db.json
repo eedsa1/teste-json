@@ -3,7 +3,7 @@
     {
 	"id": 1,
 	"titulo": "Noticia 1",
-      	"data": 01-01-2020,
+      	"data": "01-01-2020",
 	"corpo":"corpo noticia 1",
 	"url":"asdasdasd"
     }
