@@ -1,64 +1,10 @@
 {
-  "noticias": [
+  "bens": [
     {
 	"id": 1,
-	"titulo": "Noticia 1",
-      	"data": "01-01-2020",
-	"corpo":"corpo noticia 1"
-    },
-    {
-	"id": 2,
-	"titulo": "Noticia 2",
-      	"data": "01-01-2020",
-	"corpo":"corpo noticia 2"
-    },
-    {
-	"id": 3,
-	"titulo": "Noticia 3",
-      	"data": "01-01-2020",
-	"corpo":"corpo noticia 3"
-    },
-    {
-	"id": 4,
-	"titulo": "Noticia 4",
-      	"data": "01-01-2020",
-	"corpo":"corpo noticia 4"
-    },
-    {
-	"id": 5,
-	"titulo": "Noticia 5",
-      	"data": "01-01-2020",
-	"corpo":"corpo noticia 5"
-    },
-    {
-	"id": 6,
-	"titulo": "Noticia 6",
-      	"data": "01-01-2020",
-	"corpo":"corpo noticia 6"
-    },
-    {
-	"id": 7,
-	"titulo": "Noticia 7",
-      	"data": "01-01-2020",
-	"corpo":"corpo noticia 7"
-    },
-    {
-	"id": 8,
-	"titulo": "Noticia 8",
-      	"data": "01-01-2020",
-	"corpo":"corpo noticia 8"
-    },
-    {
-	"id": 9,
-	"titulo": "Noticia 9",
-      	"data": "01-01-2020",
-	"corpo":"corpo noticia 9"
-    },
-    {
-	"id": 10,
-	"titulo": "Noticia 10",
-      	"data": "01-01-2020",
-	"corpo":"corpo noticia 10"
+	"nome": "Cadeira",
+      	"tombamento": "2020123",
+	"valor": 50
     }
   ]
 }
