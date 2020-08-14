@@ -1,12 +1,12 @@
-{
-  "usuarios": [
-    {
-	"name": "chico",
-	"position": "teste",
-      	"salary": "2000",
-	"start": "21321231",
-    	"office": "sdfsdf",
-	"extn": "sadasd"
-    }
-  ]
+{ 
+   "data": [
+      [
+         "Tiger Nixon",
+         "System Architect",
+         "$320,800",
+         "2011/04/25",
+         "Edinburgh",
+         "5421"
+      ]
+   ]
 }
