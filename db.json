@@ -1,13 +1,12 @@
 { 
    "data": [
       [
-         "",
-         "Tiger Nixon",
-         "System Architect",
-         "$320,800",
-         "2011/04/25",
-         "Edinburgh",
-         "5421"
+         "name": "Tiger Nixon",
+         "position": "System Architect",
+         "salary": "$320,800",
+         "start_date": "2011/04/25",
+         "office": "Edinburgh",
+         "extn": "5421"
       ]
    ]
 }
