@@ -1,10 +1,12 @@
 {
-  "bens": [
+  "usuarios": [
     {
-	"id": 1,
-	"nome": "Cadeira",
-      	"tombamento": "2020123",
-	"valor": 50
+	"name": "chico",
+	"position": "teste",
+      	"salary": "2000",
+	"start": "21321231",
+    	"office": "sdfsdf",
+	"extn": "sadasd",
     }
   ]
 }
